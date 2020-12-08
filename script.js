@@ -1,7 +1,3 @@
-//  Sasan Yazdani
-//  168555183
-//  Final Assessment
-
 window.onload = function() {
   let shoesData = [
     {
