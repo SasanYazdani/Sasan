@@ -1,9 +1,3 @@
-<!--
-   Sasan Yazdani
-   168555183
-   Final Assessment
--->
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -27,7 +21,7 @@
         </header>
       </div>
       <main>
-        <form action="#" method="POST">
+        <form action="https://httpbin.org/post" method="POST">
           <label for="name-input">Name</label>
           <input
             id="name-input"
@@ -138,14 +132,14 @@
             tabindex="9"
             style="display: none;"
           />
-          <label for="Type your message here"></label>
           <textarea
+            placeholder="Type your message here"
             id="message"
             name="message"
             type="text"
             rows="20"
             tabindex="10"
-            placeholder="Type your message here"
+            required
           ></textarea>
           <label for="sasan-yazdani"></label>
           <input
