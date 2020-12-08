@@ -238,8 +238,8 @@ footer form label {
   padding: 0.5ex;
   font-family: 'Raleway', sans-serif;
   font-size: 1.2em;
-  max-width: 400px;
-  min-width: 150px;
+  max-width: 430px;
+  min-width: 230px;
   color: #030303;
 }
 
@@ -259,4 +259,3 @@ footer form label {
 textarea {
   font-size: 1.5em;
 }
-
